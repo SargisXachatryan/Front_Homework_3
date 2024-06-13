@@ -1,4 +1,4 @@
-import { Song } from './song'
+import { Song } from './Song'
 
 export const SongList = ({ items, onDelete, onMove }) => {
     return (

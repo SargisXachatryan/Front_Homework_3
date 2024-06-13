@@ -1,5 +1,5 @@
 import React from 'react'
-import { Song } from './song'
+import { Song } from './Song'
 
 export const Playlist = ({ name, songs, onDelete, moveSongDown }) => {
   return (
